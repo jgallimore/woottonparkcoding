@@ -46,17 +46,29 @@ Can you explain how this code works? Talk to your shoulder partner to see if you
 ## Saved work from last time:
 
 [Rex (1): https://trinket.io/html/7ba068dcec](https://trinket.io/html/7ba068dcec)
+
 [Rex (2): https://trinket.io/html/d43f5ad28a](https://trinket.io/html/d43f5ad28a)
+
 [Adam (1): https://trinket.io/html/6b86d23947](https://trinket.io/html/6b86d23947)
+
 [Adam (2): https://trinket.io/html/76f2d1e3ea](https://trinket.io/html/76f2d1e3ea)
+
 [Hans (1): https://trinket.io/html/98057d5f31](https://trinket.io/html/98057d5f31)
+
 [Hans (2): https://trinket.io/html/04804e0468](https://trinket.io/html/04804e0468)
+
 [Ezra: https://trinket.io/html/faa52c855d](https://trinket.io/html/faa52c855d)
+
 [Olivere: https://trinket.io/html/ec4d4fb8c7](https://trinket.io/html/ec4d4fb8c7)
+
 [Freddie: https://trinket.io/html/eb56619db8](https://trinket.io/html/eb56619db8)
+
 [Hermione: https://trinket.io/html/49b4108d9a](https://trinket.io/html/49b4108d9a)
 
-### Try changing the `src=""` attribute on the `<img>` tag. You can find images using Google images, and right-click and choose `Copy Link`. You can then right-click and choose paste to add the URL
+
+### Try this!
+
+Try changing the `src=""` attribute on the `<img>` tag. You can find images using Google images, and right-click and choose `Copy Link`. You can then right-click and choose paste to add the URL
 to your code.
 
 
