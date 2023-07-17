@@ -45,17 +45,13 @@ Can you explain how this code works? Talk to your shoulder partner to see if you
 
 ## Saved work from last time:
 
-[Rex (1): https://trinket.io/html/7ba068dcec](https://trinket.io/html/7ba068dcec)
 
-[Rex (2): https://trinket.io/html/d43f5ad28a](https://trinket.io/html/d43f5ad28a)
 
-[Adam (1): https://trinket.io/html/6b86d23947](https://trinket.io/html/6b86d23947)
+[Rex: https://trinket.io/html/d43f5ad28a](https://trinket.io/html/d43f5ad28a)
 
-[Adam (2): https://trinket.io/html/76f2d1e3ea](https://trinket.io/html/76f2d1e3ea)
+[Adam: https://trinket.io/html/76f2d1e3ea](https://trinket.io/html/76f2d1e3ea)
 
-[Hans (1): https://trinket.io/html/98057d5f31](https://trinket.io/html/98057d5f31)
-
-[Hans (2): https://trinket.io/html/04804e0468](https://trinket.io/html/04804e0468)
+[Hans: https://trinket.io/html/04804e0468](https://trinket.io/html/04804e0468)
 
 [Ezra: https://trinket.io/html/faa52c855d](https://trinket.io/html/faa52c855d)
 
